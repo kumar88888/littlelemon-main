@@ -1,0 +1,47 @@
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env*
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Testing
+coverage/
+
+# Temp files
+*.log
+*.swp
+*.tmp
+
+# Editor files
+*~
+
+# Mac-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
